@@ -1,0 +1,79 @@
+{
+    "apple souffle": {
+        "apples": 250,
+        "sugar": 250,
+        "egg": 40,
+        "vanilin": 10
+    },
+    "Cacke": {
+        "flour": 500,
+        "eggs": 250,
+        "butter": 200,
+        "milk": 200,
+        "apples": 300
+    },
+    "Zefir": {
+        "applesauce": 250,
+        "sugar": 730,
+        "egg_white": 40,
+        "vanilin": 10,
+        "hot_water": 160,
+        "agar_agar": 8,
+        "powdered_sugar": 50
+    },
+    "Cacke for 100 gr milk": {
+        "flour": 250.0,
+        "eggs": 125.0,
+        "butter": 100.0,
+        "milk": 100.0,
+        "apples": 150.0
+    },
+    "Zefir for 500 gr sugar": {
+        "applesauce": 171.23287671232876,
+        "sugar": 500.0,
+        "egg_white": 27.397260273972602,
+        "vanilin": 6.8493150684931505,
+        "hot_water": 109.58904109589041,
+        "agar_agar": 5.47945205479452,
+        "powdered_sugar": 34.24657534246575
+    },
+    "Cacke for 50 gr milk": {
+        "flour": 125.0,
+        "eggs": 62.5,
+        "butter": 50.0,
+        "milk": 50.0,
+        "apples": 75.0
+    },
+    "Cacke for 100 gr apples": {
+        "flour": 166.66666666666666,
+        "eggs": 83.33333333333333,
+        "butter": 66.66666666666666,
+        "milk": 66.66666666666666,
+        "apples": 100.0
+    },
+    "Apple sauce for 125 gr applesauce": {
+        "applesauce": 125.0,
+        "sugar": 365.0,
+        "egg_white": 20.0,
+        "vanilin": 5.0,
+        "hot_water": 80.0,
+        "agar_agar": 4.0,
+        "powdered_sugar": 25.0
+    },
+    "Cacke for 300 gr milk": {
+        "flour": 750.0,
+        "eggs": 375.0,
+        "butter": 300.0,
+        "milk": 300.0,
+        "apples": 450.0
+    },
+    "Zefir for 4 gr agar_agar": {
+        "applesauce": 125.0,
+        "sugar": 365.0,
+        "egg_white": 20.0,
+        "vanilin": 5.0,
+        "hot_water": 80.0,
+        "agar_agar": 4.0,
+        "powdered_sugar": 25.0
+    }
+}
